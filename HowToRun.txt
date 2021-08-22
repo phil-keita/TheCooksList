@@ -1,0 +1,15 @@
+Instructions
+
+You only need to have Java installed on your computer to run this code. All the other resources to run the code are provided in this folder
+
+-- Download Java: https://www.java.com/en/download/
+
+-- follow the instructions to install java
+
+-- use the command line and change directory to where you put the app
+folder on you computer (cd path)
+
+-- run this command: bash run.sh
+
+	enjoy!
+

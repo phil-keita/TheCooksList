@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="groceryList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/groceryList_jar</output-path>
+    <root id="archive" name="groceryList.jar">
+      <element id="module-output" name="groceryList" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-fxml-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-fxml-16-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-controls-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-controls-16-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-graphics-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-graphics-16-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-base-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javafx-base-16-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/api/gson/gson-2.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
